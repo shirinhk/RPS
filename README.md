@@ -5,7 +5,7 @@ A virtual version of rock paper scissors! Two players compete by choosing an opt
 
 
 ## Project Home Page File
-[Project home page link](https://docs.google.com/document/d/15gKnuETX0Z-GodusE8Luvbn65flAFX-6kmnsh3VmR3o/edit?usp=sharing)
+[Project home page link](docs/game.py)
 
 
 ## MIT License
