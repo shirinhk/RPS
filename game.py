@@ -4,10 +4,10 @@ from random import randint
 from gameComponents import gameVars, winLose
 
 while gameVars.player_choice is False:
-    print("==================*/ RPS GAME */====================")
+    print(":) :) :) :) :) :) =  RPS GAME  = (: (: (: (: (: (:")
     print("Computer Lives:", gameVars.computer_lives, "/", gameVars.total_lives)
     print("Player Lives:", gameVars.player_lives, "/", gameVars.total_lives)
-    print("====================================================")
+    print(":) :) :) :) :) :)  :O  :O O:  O: (: (: (: (: (: (:")
     print("Choose your weapon! Or type quit to exit\n") #\n means "new line"
     gameVars.player_choice = input("Choose rock, paper, or scissors: \n")
 
