@@ -1,10 +1,10 @@
 # Rock Paper Scissors Game!
 
 ***A virtual version of rock paper scissors!*** 
--Two players compete by choosing an option and comparing their choices.
--The game is win, lose, or draw - the loser loses a life. 
--Players can Keep playing until one player has no lives left to live.
--They can quit the game when ever they like
+* Two players compete by choosing an option and comparing their choices.
+* The game is win, lose, or draw - the loser loses a life. 
+* Players can Keep playing until one player has no lives left to live.
+* They can quit the game when ever they like
 
 
 
