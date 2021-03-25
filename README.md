@@ -5,7 +5,8 @@
 * The game is win, lose, or draw - the loser loses a life. 
 * Players can Keep playing until one player has no lives left to live.
 * They can quit the game when ever they like
-@octocat this is a fun game, Try it!
+
+:stuck_out_tongue_winking_eye: this is a fun game, Try it!
 
 
 
