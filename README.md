@@ -1,4 +1,5 @@
 # Rock Paper Scissors Game!
+<img src="images/photo.jpeg">
 
 ***A virtual version of rock paper scissors!*** 
 * Two players compete by choosing an option and comparing their choices.
