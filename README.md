@@ -12,7 +12,7 @@
 
 
 ## Project Home Page File
-[Project home page link](doc/game.py)
+[Project home page link](../blob/main/docs/game.py)
 
 
 ## MIT License
