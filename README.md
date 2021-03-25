@@ -1,7 +1,7 @@
 # Rock Paper Scissors Game!
 <img src="images/photo.jpeg">
 
-***A virtual version of rock paper scissors!*** 
+### ***A virtual version of rock paper scissors!*** 
 * Two players compete by choosing an option and comparing their choices.
 * The game is win, lose, or draw - the loser loses a life. 
 * Players can Keep playing until one player has no lives left to live.
