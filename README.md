@@ -6,7 +6,7 @@
 * Players can Keep playing until one player has no lives left to live.
 * They can quit the game when ever they like
 
-:stuck_out_tongue_winking_eye: this is a fun game, Try it!
+:stuck_out_tongue_winking_eye: ***this is a fun game, Try it!***
 
 
 
