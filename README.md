@@ -12,7 +12,7 @@
 
 
 ## Project Home Page File
-[Project home page link](https://github.com/shirinhk/RPS/blob/main/game.py)
+[Project home page link](doc/game.py)
 
 
 ## MIT License
