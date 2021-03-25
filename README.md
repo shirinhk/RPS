@@ -1,6 +1,10 @@
 # Rock Paper Scissors Game!
 
-A virtual version of rock paper scissors! Two players compete by choosing an option and comparing their choices. The game is win, lose, or draw - the loser loses a life. Keep playing until one player has no lives left to live.
+***A virtual version of rock paper scissors!*** 
+-Two players compete by choosing an option and comparing their choices.
+-The game is win, lose, or draw - the loser loses a life. 
+-Players can Keep playing until one player has no lives left to live.
+-They can quit the game when ever they like
 
 
 
@@ -10,7 +14,7 @@ A virtual version of rock paper scissors! Two players compete by choosing an opt
 
 ## MIT License
 
-Copyright 2021 Shirin Kazerooni
+**Copyright 2021 Shirin Kazerooni**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
